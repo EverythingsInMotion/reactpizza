@@ -1,3 +1,3 @@
 # React Pizza WebApp
 
-## Build with React
+## Build with React and Vite
